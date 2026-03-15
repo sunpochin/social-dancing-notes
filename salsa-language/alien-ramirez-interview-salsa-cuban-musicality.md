@@ -1,8 +1,21 @@
-# Alien Ramirez interview  1
+# Alien Ramirez 古巴舞蹈體系、與音樂對話及給舞者的秘訣
 
 ## 影音來源
 
 Youtube Podcast Salsa Language: [Alien Ramirez: Cuban Dance Methodologies, Connecting with the Music, Secret for Dancers](http://www.youtube.com/watch?v=jUorqoQ1PNo)
+
+## 摘要
+
+#### 整部影片的核心總結
+
+這部超過一個小時的訪談，Alien Ramirez 為我們揭示了頂尖舞者的養成並非僅靠動作的堆砌，而是以下四大支柱的結合：
+
+1. 紀律與背景： 體操與芭蕾奠定的身體覺知。
+2. 歷史與本質： 了解非洲與歐洲融合的歷史，感受音樂的能量。
+3. 音樂性與翻譯： 將自己視為樂器的翻譯官，精準解讀高低音。
+4. 心理與連結： 運用心理學與伴侶溝通，將舞蹈視為靈魂的治療。
+
+
 
 ## 翻譯
 
@@ -296,18 +309,5 @@ Alien Ramirez： 大家，繼續跳舞吧！
 
 ***
 
-#### 整部影片的核心總結
-
-這部超過一個小時的訪談，Alien Ramirez 為我們揭示了頂尖舞者的養成並非僅靠動作的堆砌，而是以下四大支柱的結合：
-
-1. 紀律與背景： 體操與芭蕾奠定的身體覺知。
-2. 歷史與本質： 了解非洲與歐洲融合的歷史，感受音樂的能量。
-3. 音樂性與翻譯： 將自己視為樂器的翻譯官，精準解讀高低音。
-4. 心理與連結： 運用心理學與伴侶溝通，將舞蹈視為靈魂的治療。
-
-\
-\
-\
-https://gemini.google.com/share/86f57e034b0e\
-<br>
+#### <br>
 
