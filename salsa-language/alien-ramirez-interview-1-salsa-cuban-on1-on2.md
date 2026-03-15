@@ -2,15 +2,11 @@
 description: 翻譯
 ---
 
-# Alien Ramirez interview 2
+# Alien Ramirez: Salsa 的起源、舞者不可或缺的技能，以及 On1 與 On2 的差異
 
 ## 影音來源
 
-Youtube Pocast 頻道 Salsa Language: [https://www.youtube.com/watch?v=hUQHC1YkU8w](https://www.youtube.com/watch?v=hUQHC1YkU8w)
-
-
-
-Alien Ramirez: The Origins of Salsa, Non-Negotiable Skills for Dancers, Dancing on 1 vs Dancing on 2
+Youtube Pocast 頻道 Salsa Language: [Alien Ramirez: The Origins of Salsa, Non-Negotiable Skills for Dancers, Dancing on 1 vs Dancing on 2](https://www.youtube.com/watch?v=hUQHC1YkU8w)
 
 ### 重點整理
 
