@@ -5,6 +5,7 @@
 ## Behind the Shine
 
 * [Karel Flores 採訪 part 1 - 我只要負責漂亮、苗條就行了](behind-the-shine/karel-flores-cai-fang-part-1-wo-zhi-yao-fu-ze-piao-liang-miao-tiao-jiu-xing-le.md)
+* [Karel Flores 採訪 part 2 - 我們都在父權體制下長大](behind-the-shine/karel-flores-cai-fang-part-2-wo-men-dou-zai-fu-quan-ti-zhi-xia-chang-da.md)
 * ['Connection first' - Edyta Czagowiec - BTS](behind-the-shine/connection-first-edyta-czagowiec-bts.md)
 * [Alex Toledo: 不需外界背書的女性力量](behind-the-shine/alex-toledo-interview.md)
 * [翻譯 Live in Berlin - Salsa 圈中的社群媒體現象](behind-the-shine/social-media-in-the-salsa-scene.md)
