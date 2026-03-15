@@ -27,6 +27,8 @@ Karel 在 2025 年 3 月 Instagram 發文討論舞界濫用問題，社群視為
 她未公開細節自述受害，但強調支援其他女性，並非追求取消文化而是責任追究。​\
 訪談中提及 Me Too，可能源於此時期NYC莎莎圈地震，包括失去工作與孤立。​
 
+公開的倖存者故事列表： [https://docs.google.com/spreadsheets/d/1BqBWu3Ihu9FDpmRhTCpx94O909E1e3ZIVFcbrhyOjy8/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1BqBWu3Ihu9FDpmRhTCpx94O909E1e3ZIVFcbrhyOjy8/edit?gid=0#gid=0)
+
 ### 全球連鎖反應 <a href="#undefined" id="undefined"></a>
 
 Carlos Zafire 被指長期騷擾女性學員，舊指控於2024年底重燃，與Yamulee有歷史連結。​\
