@@ -8,7 +8,7 @@ Trailer: [https://www.instagram.com/reel/DOeHdSgAFqx/](https://www.instagram.com
 
 ## 摘要
 
-這段座談會圍繞著「社群媒體對舞蹈真實性的影響」展開，三位不同世代的藝術家（Super Mario / Mario Hazarika, Denise Cambria, Diego Rivera）提供了非常精彩的觀點碰撞。以下是為您整理的核心重點：
+這段座談會圍繞著「社群媒體對舞蹈真實性的影響」展開，三位不同世代的藝術家（Super Mario / Mario Hazarika, Denisse Cambria, Diego Rivera）提供了非常精彩的觀點碰撞。以下是為您整理的核心重點：
 
 ### 1. 消失的「連結感」（Connection）
 
