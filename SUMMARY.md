@@ -1,8 +1,10 @@
 # Table of contents
 
+* [目錄](README.md)
+
 ## Behind the Shine
 
-* [中文翻譯 Live in Berlin - Lead / Follow dynamics in the salsa scene, Podcast: Behind the Shine](README.md)
+* [中文翻譯 Live in Berlin - Lead / Follow dynamics in the salsa scene, Podcast: Behind the Shine](<README (1).md>)
 
 ## Salsa Language
 
