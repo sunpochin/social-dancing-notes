@@ -2,15 +2,13 @@
 
 ## 影音來源
 
-Youbue Podcast 來源： Behind The Shines
-
-['Being feminine outside of male validation' - Alex Toledo - BTS](https://www.youtube.com/watch?v=2nokSpVsIP4)
+Youbue Podcast 來源: Behind The Shines: ['Being feminine outside of male validation' - Alex Toledo - BTS](https://www.youtube.com/watch?v=2nokSpVsIP4)
 
 ## Gemini 全文翻譯
 
-### 0 to 15 min
-
 這部影片全長約 42 分鐘，我們先從第一部分開始。
+
+### 0 to 15 min
 
 ***
 
