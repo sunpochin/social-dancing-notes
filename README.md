@@ -1,6 +1,6 @@
 # 目錄
 
-[README (1).md](<README (1).md> "mention")
+[live-in-berlin-lead-follow-dynamics-translation.md](behind-the-shine/live-in-berlin-lead-follow-dynamics-translation.md "mention")
 
 [alien-ramirez-part-1.md](salsa-language/alien-ramirez-part-1.md "mention")
 
