@@ -1,8 +1,8 @@
-# 中文翻譯 Live in Berlin - Lead / Follow dynamics in the salsa scene, Podcast: Behind the Shine
+# 翻譯 Live in Berlin - Lead / Follow dynamics in the salsa scene
 
 ### 影片來源 <a href="#ying-pian-lai-yuan" id="ying-pian-lai-yuan"></a>
 
-youtube: [https://www.youtube.com/watch?v=K4Ac61c5zVI](https://www.youtube.com/watch?v=K4Ac61c5zVI)​​
+"Behind the Shine" youtube / podcast: [https://www.youtube.com/watch?v=K4Ac61c5zVI](https://www.youtube.com/watch?v=K4Ac61c5zVI)​​
 
 ### 全文翻譯 <a href="#quan-wen-fan-yi" id="quan-wen-fan-yi"></a>
 
