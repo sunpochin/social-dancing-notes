@@ -9,5 +9,5 @@
 
 ## Salsa Language
 
-* [Alien Ramirez part 1](salsa-language/alien-ramirez-part-1.md)
-* [Alien Ramirez: The Origins of Salsa, Non-Negotiable Skills for Dancers, Dancing on 1 vs Dancing on 2](salsa-language/alien-ramirez-the-origins-of-salsa-non-negotiable-skills-for-dancers-dancing-on-1-vs-dancing-on-2.md)
+* [Alien Ramirez interview  1](salsa-language/alien-ramirez-interview-1.md)
+* [Alien Ramirez interview 2](salsa-language/alien-ramirez-interview-2.md)
