@@ -1,4 +1,4 @@
-# 翻譯 Live in Berlin: Salsa 圈中的社群媒體現象
+# 翻譯 Live in Berlin - Salsa 圈中的社群媒體現象
 
 ## 音檔來源
 

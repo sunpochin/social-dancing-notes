@@ -5,8 +5,8 @@
 ## Behind the Shine
 
 * [Alex Toledo: 不需外界背書的女性力量](behind-the-shine/alex-toledo-interview.md)
-* [翻譯 Live in Berlin: Salsa 圈中的社群媒體現象](behind-the-shine/social-media-in-the-salsa-scene.md)
-* [翻譯 Live in Berlin - Lead / Follow dynamics in the salsa scene](behind-the-shine/live-in-berlin-lead-follow-dynamics-translation.md)
+* [翻譯 Live in Berlin - Salsa 圈中的社群媒體現象](behind-the-shine/social-media-in-the-salsa-scene.md)
+* [翻譯 Live in Berlin - Salsa 舞蹈中的 Lead 與 Follow 互動關係](behind-the-shine/live-in-berlin-lead-follow-dynamics-translation.md)
 * [DJ Dmitri 採訪翻譯](behind-the-shine/dj-dmitri-interview-translation.md)
 
 ## Salsa Language
