@@ -6,7 +6,7 @@
 
 ### 全文翻譯 <a href="#quan-wen-fan-yi" id="quan-wen-fan-yi"></a>
 
-#### 0 \~ 15 min <a href="#id-0-15-min" id="id-0-15-min"></a>
+### 0 to 15 min
 
 主持人： 再次感謝各位的參與。這是今天的第二場座談會，這場座談會的主題將會是：我們騷莎（Salsa）圈子裡目前的引導者（Leader）和跟隨者（Follower）動態是否已經過時了？這將是「Behind the Shines」這個新概念的第二場座談會，這是我新的 Podcast，使命是透過討論真正重要的事情，讓我們的圈子變得更好。
 
