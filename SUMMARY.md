@@ -17,3 +17,7 @@
 
 * [Alien Ramirez 古巴舞蹈體系、與音樂對話及給舞者的秘訣](salsa-language/alien-ramirez-interview-salsa-cuban-musicality.md)
 * [Alien Ramirez: Salsa 的起源、舞者不可或缺的技能，以及 On1 與 On2 的差異](salsa-language/alien-ramirez-interview-1-salsa-cuban-on1-on2.md)
+
+## ZoukNerds
+
+* [翻譯 ZoukNerds: Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)](zouknerds/fan-yi-zouknerds-stop-overthinking-finding-freedom-on-the-floor-s05-ep78.md)
