@@ -12,7 +12,7 @@ ZoukNerds: [Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)](https://
 
 ## Mandarin Translation 中文翻譯
 
-
+Gemini translation from youtube transcript, not 100% accurate.
 
 ### 第一段：\[00:00:00] -
 
