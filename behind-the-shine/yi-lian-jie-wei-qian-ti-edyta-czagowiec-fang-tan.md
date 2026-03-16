@@ -1,4 +1,8 @@
-# 'Connection first' - Edyta Czagowiec - BTS
+---
+description: Salsa 藝術家 Edyta Czagowiec
+---
+
+# "以連結為前提" - Edyta Czagowiec 訪談
 
 ## 影音來源
 
