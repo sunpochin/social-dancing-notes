@@ -1,5 +1,9 @@
 ---
 description: 'ZoukNerds: Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)'
+icon: podcast
+tags:
+  - bralizian-zouk
+  - zouk
 ---
 
 # ZoukNerds：停止過度思考，在舞池中找尋自由（第 5 季第 78 集）
@@ -94,4 +98,3 @@ Gui Prada： 再見！
 
 1. Xandy Liberato：Gui Prada 在 提到的老師，是巴西舞界的傳奇宗師。
 2. Globo Repórter：巴西 Rede Globo 電視台週五晚間的老牌紀錄片節目，Gui 用它來描述他以前當律師時下班後的平靜生活。
-
