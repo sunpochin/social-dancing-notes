@@ -1,4 +1,4 @@
-# Karel Flores 採訪 part 2 - 我們都在父權體制下長大
+# Karel Flores 訪談 2 - 我們都在父權體制下長大
 
 ## 影音來源
 
@@ -8,11 +8,11 @@
 
 莎莎舞界確實在 2024 年底至 2025 年初爆發類似 Me Too 的指控浪潮，主要集中在紐約等地的舞團濫權與性侵問題。
 
-### Yamulee 舞團指控 <a href="#yamulee" id="yamulee"></a>
+### Yamuleé 舞團指控 <a href="#yamulee" id="yamulee"></a>
 
-Yamulee 舞團創辦人 Osmar Perrones 被多名前團員指控利用權威地位進行情感操控（grooming）、財務剝削及非自願性行為，特別針對外國舞者以簽證威脅。\
+Yamuleé 舞團創辦人 Osmar Perrones 被多名前團員指控利用權威地位進行情感操控（grooming）、財務剝削及非自願性行為，特別針對外國舞者以簽證威脅。\
 Reddit 討論顯示，2025 年 3 月有舞者分享被強暴及懲罰經歷，Osmar 涉嫌與年輕舞者（如 Laura）有不當關係。\
-Karel Flores 曾任 Yamulee 首席女舞者逾十年，後獨立發展。​
+Karel Flores 曾任 Yamuleé 首席女舞者逾十年，後獨立發展。​
 
 ### Karel Flores角色 <a href="#karel-flores" id="karel-flores"></a>
 
@@ -31,13 +31,13 @@ Karel 在 2025 年 3 月 Instagram 發文討論舞界濫用問題，社群視為
 
 ### 全球連鎖反應 <a href="#undefined" id="undefined"></a>
 
-Carlos Zafire 被指長期騷擾女性學員，舊指控於2024年底重燃，與Yamulee有歷史連結。​\
+Carlos Zafire 被指長期騷擾女性學員，舊指控於2024年底重燃，與 Yamuleé 有歷史連結。​\
 其他事件如 Chicago Evolución Latina的 Jose Serrano、Douglas Ortiz 等被控類似濫權，導致節慶取消合作。\
 拉丁舞社群（如 SalsaKnox）公開承認問題普遍，呼籲安全措施。​
 
-### 驗證限制 <a href="#undefined" id="undefined"></a>
+### Perplexity 交叉驗證 <a href="#undefined" id="undefined"></a>
 
-Gemini陳述大致符合社群討論（如Reddit），但缺乏主流媒體報導或官方證據，多為匿名指控與社媒貼文。\
+Gemini 陳述大致符合社群討論（如Reddit），但缺乏主流媒體報導或官方證據，多為匿名指控與社媒貼文。\
 無直接 Karel 訪談影片連結確認「倖存者」自述，建議查其 Instagram 最新動態。無刑事起訴記錄。
 
 ## 摘要
