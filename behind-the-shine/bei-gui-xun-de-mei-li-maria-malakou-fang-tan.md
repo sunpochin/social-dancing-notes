@@ -28,7 +28,7 @@ Behind the Shine: ['Instructed to be pretty' - Maria Malakou - BTS](https://www.
 
 * Ansima：義大利知名的 Salsa 舞團 Ansima (Ansima Ballet / Ansima Production)。
 * Marco Ferrigno：應該是 Ansima 舞團的總監，知名舞者 Marco Ferrigno。
-* Yamulee：應該是紐約極具代表性的曼波舞團 Yamulee (Yamulee Dance Company，由 Osmar Perrones 領導)。
+* Yamuleé：應該是紐約極具代表性的曼波舞團 Yamuleé (Yamuleé Dance Company，由 Osmar Perrones 領導)。
 
 以下是為你修正錯字並重新整理後的完整翻譯：
 
