@@ -24,14 +24,11 @@ Behind the Shine: ['Instructed to be pretty' - Maria Malakou - BTS](https://www.
 
 ### 0 - 10 min
 
-沒問題，我已經幫你在網路上查證了這些名詞。語音辨識軟體確實把一些 Salsa 圈內非常知名的舞團和人名拼錯了。
+主要人名簡介：
 
-以下是主要的修正對照：
-
-* Maria Lamonaco → 應該是她本人的名字 Maria Malakou。
-* Anne Simar → 應該是義大利知名的 Salsa 舞團 Ansima (Ansima Ballet / Ansima Production)。
-* Michael Farrigo → 應該是 Ansima 舞團的總監，知名舞者 Marco Ferrigno。
-* YAMOLE → 應該是紐約極具代表性的曼波舞團 Yamulee (Yamulee Dance Company，由 Osmar Perrones 領導)。
+* Ansima：義大利知名的 Salsa 舞團 Ansima (Ansima Ballet / Ansima Production)。
+* Marco Ferrigno：應該是 Ansima 舞團的總監，知名舞者 Marco Ferrigno。
+* Yamulee：應該是紐約極具代表性的曼波舞團 Yamulee (Yamulee Dance Company，由 Osmar Perrones 領導)。
 
 以下是為你修正錯字並重新整理後的完整翻譯：
 
