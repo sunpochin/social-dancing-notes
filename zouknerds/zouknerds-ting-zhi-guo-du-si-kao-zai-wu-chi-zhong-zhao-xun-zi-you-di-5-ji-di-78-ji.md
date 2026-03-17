@@ -1,18 +1,18 @@
 ---
-description: ZoukNerds is a podcast about Brazilian Zouk social dancing
+description: 'ZoukNerds: Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)'
 ---
 
-# 翻譯 ZoukNerds: Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)
+# ZoukNerds：停止過度思考，在舞池中找尋自由（第 5 季第 78 集）
 
 ## Video Source 影音來源
 
+Special thanks to [Alisson Sandi](https://www.instagram.com/alisson.sandi/), host of the ZoukNerds Podcast, for graciously granting permission for this non-profit translation.
+
 ZoukNerds: [Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)](https://www.youtube.com/watch?v=yh3mIdG-XAc)
 
+## 中文翻譯
 
-
-## Mandarin Translation 中文翻譯
-
-Gemini translation from youtube transcript, not 100% accurate.
+Gemini Youtube 產生的 transcript 翻譯，不保證完全正確。
 
 ### 第一段：\[00:00:00] -
 

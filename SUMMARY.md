@@ -20,4 +20,4 @@
 
 ## ZoukNerds
 
-* [翻譯 ZoukNerds: Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)](zouknerds/fan-yi-zouknerds-stop-overthinking-finding-freedom-on-the-floor-s05-ep78.md)
+* [ZoukNerds：停止過度思考，在舞池中找尋自由（第 5 季第 78 集）](zouknerds/zouknerds-ting-zhi-guo-du-si-kao-zai-wu-chi-zhong-zhao-xun-zi-you-di-5-ji-di-78-ji.md)
