@@ -8,11 +8,21 @@ tags:
 
 # ZoukNerds：停止過度思考，在舞池中找尋自由（第 5 季第 78 集）
 
-## Video Source 影音來源
+## Video Source, Acknowledgement  影音來源
 
 Special thanks to [Alisson Sandi](https://www.instagram.com/alisson.sandi/), host of the ZoukNerds Podcast, for graciously granting permission for this non-profit translation.
 
 ZoukNerds: [Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)](https://www.youtube.com/watch?v=yh3mIdG-XAc)
+
+## 摘要
+
+* 拋開意義的附加（De-attaching Meaning）： Gui 指出停止過度思考的核心在於「觀察身體現狀而不貼標籤」，例如將舞伴的流淚或身體緊繃視為單純的物理現象並給予調整，而非將其解讀為負面的審判或情緒壓力。
+* 舞蹈作為身體的滋養（Dance as Nourishment）： 雙人舞提供了一個安全且具創意的環境來滿足人類對身體接觸的需求，Gui 分享過去擔任律師時，每週五 45 分鐘的舞蹈是他釋放壓力、獲得情感滋養的重要管道。
+* 建立信任的過程： 每一支舞都是一段在歌曲中完整發展的關係，舞者應尊重建立連結的步驟，而非帶著「必須親密」的預設（Shoulds）直接跳到中段，強迫性的靠近反而會破壞身體的直覺與安全感。
+* 角色切換與社會壓力： Alisson 分享作為領舞者（Leader）時常因老師身份與社會觀感而感到被評判，甚至對親密連結感到罪惡；相對地，跳從舞者（Follower）時則能放下責任，更自由地享受當下的流動。
+* 啟發他人而非引發負面觀感： 針對擔心旁人眼光的掙扎，Gui 建議將其轉化為正向敘事：舞池中的深層連結不應被視為排外，而是一種能讓自己能量滿溢、進而啟發並滋養下一位舞伴的動力。
+
+
 
 ## 中文翻譯
 
