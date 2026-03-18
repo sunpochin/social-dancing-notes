@@ -1,6 +1,6 @@
 # Table of contents
 
-* [目錄](README.md)
+* [按網頁左上角選單看所有文章](README.md)
 
 ## Behind the Shine
 
