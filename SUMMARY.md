@@ -24,4 +24,4 @@
 
 ***
 
-* [ZoukNerds 如何把比較轉化成有力而有序的啟發，嘉賓 Paloma Alves, 第 5 季 63 集](how-to-turn-comparison-into-powerful-aligned-inspiration-with-paloma-alves.md)
+* [ZoukNerds 如何將「比較」轉化為強大且契合自我的「靈感」，嘉賓 Paloma Alves, 第 5 季 63 集](how-to-turn-comparison-into-powerful-aligned-inspiration-with-paloma-alves.md)
