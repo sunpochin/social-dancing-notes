@@ -1,11 +1,3 @@
----
-description: 'ZoukNerds: Stop Overthinking: Finding Freedom on the Floor (S05 Ep78)'
-icon: podcast
-tags:
-  - bralizian-zouk
-  - zouk
----
-
 # ZoukNerds：停止過度思考，在舞池中找尋自由（第 5 季第 78 集）
 
 ## Video Source, Acknowledgement  影音來源

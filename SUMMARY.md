@@ -20,6 +20,5 @@
 
 ## ZoukNerds
 
-* [ZoukNerds：停止過度思考，在舞池中找尋自由（第 5 季第 78 集）](zouknerds/stop-overthinking-finding-freedom-on-the-floor/README.md)
-  * [ZoukNerds 如何將「比較」轉化為強大且契合自我的「靈感」，嘉賓 Paloma Alves, 第 5 季 63 集](zouknerds/stop-overthinking-finding-freedom-on-the-floor/how-to-turn-comparison-into-powerful-aligned-inspiration-with-paloma-alves.md)
-  * [Page 1](zouknerds/stop-overthinking-finding-freedom-on-the-floor/page-1.md)
+* [ZoukNerds 如何將「比較」轉化為強大且契合自我的「靈感」，嘉賓 Paloma Alves, 第 5 季 63 集](zouknerds/how-to-turn-comparison-into-powerful-aligned-inspiration-with-paloma-alves.md)
+* [ZoukNerds：停止過度思考，在舞池中找尋自由（第 5 季第 78 集）](zouknerds/zouknerds-ting-zhi-guo-du-si-kao-zai-wu-chi-zhong-zhao-xun-zi-you-di-5-ji-di-78-ji.md)
