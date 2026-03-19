@@ -14,7 +14,9 @@ ZoukNerds: [S05 Ep17 - When should you quit? How to avoid burnout?](https://www.
 
 ## Google Gemini prompt
 
-請把這個 YouTube 截取成為一字不漏的完整文字稿。
+[https://gemini.google.com](https://gemini.google.com)
+
+「請把這個 YouTube 截取成為一字不漏的完整文字稿。
 
 請採用分段輸出，每 10 分鐘為一段。
 
@@ -22,9 +24,9 @@ ZoukNerds: [S05 Ep17 - When should you quit? How to avoid burnout?](https://www.
 
 內容提到的人名，應該都是 Zouk or 雙人舞圈的藝術家，請幫我在網路搜尋，並且核對成正確的人名。
 
-S05 Ep17 - When should you quit? How to avoid burnout?
+[https://www.youtube.com/watch?v=FgKjYCFWX8g](https://www.youtube.com/watch?v=FgKjYCFWX8g)
 
-
+」
 
 ## 大略文稿翻譯
 
