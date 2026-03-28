@@ -27,3 +27,7 @@
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
 * [Tromboranga 顛倒的世界 El mundo al revés 歌詞翻譯](salsa-lyrics-traditional-chinese-translation/tromboranga-el-mundo-al-reves.md)
+
+## Lambada / Zouk / Kizomba 歌詞翻譯 <a href="#lambada-zouk-kizomba-traditional-chinese-translation" id="lambada-zouk-kizomba-traditional-chinese-translation"></a>
+
+* [Calema Vai 繁中歌詞翻譯](lambada-zouk-kizomba-traditional-chinese-translation/calema-vai-lyrics.md)
