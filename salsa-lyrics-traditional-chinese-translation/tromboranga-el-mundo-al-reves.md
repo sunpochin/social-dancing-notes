@@ -36,8 +36,6 @@ description: Tromboranga 顛倒的世界 El mundo al revés
 
 ***
 
-### El Mundo Está Al Revés (世界顛倒了) 🔃
-
 **Desperté y no había sol** 我醒來時，發現沒有太陽 ☀️\
 **No había luna** 也沒有月亮 🌙\
 **La esperanza** 那些希望\
