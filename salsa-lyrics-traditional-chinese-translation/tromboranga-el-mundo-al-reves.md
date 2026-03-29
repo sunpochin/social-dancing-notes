@@ -36,53 +36,119 @@ description: Tromboranga 顛倒的世界 El mundo al revés
 
 ***
 
-**Desperté y no había sol** 我醒來時，發現沒有太陽 ☀️\
-**No había luna** 也沒有月亮 🌙\
-**La esperanza** 那些希望\
-**No se a donde fue** 不知道都去哪了 🕊️
+### 🎵 El Mundo Al Revés — Tromboranga 🎵
 
-**Solo hay humo** 只剩下煙霧 🌫️\
-**Y confusión** 與一片混亂 😵‍💫\
-**Nos separan** 他們將我們分隔\
-**dependiendo del color** 僅僅取決於膚色的深淺 🎨
-
-**Ya no sabes quien protege** 你不再知道誰在保護 🛡️\
-**No se sabe quien vigila** 也不知道誰在監視 👁️\
-**El miedo** 恐懼\
-**Se apodera de la esquina** 佔領了每個街角 😨
-
-**Y burlándose** 他們嘲弄著\
-**Te marean con noticias** 用漫天新聞讓你暈頭轉向 📺\
-**Justificando el error** 為錯誤百般的辯解
-
-**Babeándose en codicia** 在貪婪之中垂涎三尺 🤑\
-**Algunos quieren hablar** 有些人想要發聲 🗣️\
-**Otros quieren gobernar** 有些人只想統治 👑
-
-**Te callan** 他們讓你噤聲
-
-**No te dejan respirar** 不讓你自由呼吸 🤐
-
-**Despierta hay que pensar** 醒醒吧，我們必須思考\
-**El mundo hay que cambiar** 這個世界必須改變 🌍\
-**De encima la rodilla** 那壓在身上的膝蓋\
-**Nos tenemos que quitar** 我們必須將它移開 ✊
+作者：Joaquin Arteaga 專輯：Salsa Terapia (2020)
 
 ***
 
-**【CORO / 副歌】**
+☀️ Desperté y no había sol ☀️ 我醒來，卻見不到太陽
 
-**Qué pasa?** 發生了什麼事？ ❓ **El mundo esta al revés.** 世界已經顛倒了。 🔃
+🌙 No había luna 🌙 也沒有月亮
 
-**Qué pasa?** 發生了什麼事？ ❓ **El mundo esta al revés.** 世界已經顛倒了。 🔃
+❓ La esperanza, no sé a dónde fue ❓ 希望，不知去向了何方
+
+🌫️ Solo hay humo y confusión 🌫️ 只有煙霧與困惑
+
+🎨 Nos separan dependiendo del color 🎨 他們根據膚色將我們分隔
+
+🛡️ Ya no sabes quién protege 🛡️ 你不再知道誰在保護
+
+👁️ No sabes quién vigila 👁️ 不知道誰在監視
+
+😨 El miedo se opera de la esquina 😨 恐懼佔據了街角
+
+😏 Y burlándose 😏 並且嘲弄著
+
+📺 Te marean con noticias 📺 他們用新聞讓你暈頭轉向
+
+💣 Justificando el terror 💣 為恐怖行徑找藉口
+
+🤑 Babeándose en codicia 🤑 在貪婪中垂涎三尺
+
+🗣️ Algunos quieren hablar 🗣️ 有些人想發聲
+
+👑 Otros quieren gobernar 👑 其他人想統治
+
+🤐 Te callan, no te dejan respirar 🤐 他們讓你噤聲，不讓你呼吸
+
+✨ Despierta, hay que pensar ✨ 醒醒吧，必須思考
+
+🌍 El mundo hay que cambiar 🌍 世界必須改變
+
+🦵 De encima la rodilla, nos tenemos que quitar 🦵 我們必須移開那壓在身上的膝蓋
 
 ***
 
-**【CORO 2 / 副歌二】**
+🗣️ CORO 🗣️ 副歌
 
-**Hay que pensar** 我們必須思考 🤔 **en la humanidad.** 關於全人類的未來。 ❤️
+❓ ¿Qué pasa? ❓ 發生了什麼事？
 
-**Hay que pensar** 我們必須思考 **en la humanidad.** 關於全人類的未來。 ❤️
+🔄 El mundo está al revés 🔄 世界顛倒了
+
+🤷 And nadie sabe cómo es 🤷 沒人知道真相到底如何
+
+❓ ¿Qué pasa? ❓ 發生了什麼事？
+
+🔄 El mundo está al revés 🔄 世界顛倒了
+
+💰 Lo que nos quieren vender 💰 那些他們想推銷給我們的謊言
+
+❓ ¿Qué pasa? ❓ 發生了什麼事？
+
+🔄 El mundo está al revés 🔄 世界顛倒了
+
+🌅 Que ya no se distingue el sol al amanecer 🌅 黎明時分已分不清太陽在哪
+
+❓ ¿Qué pasa? ❓ 發生了什麼事？
+
+🔄 El mundo está al revés 🔄 世界顛倒了
+
+👁️ Yo sé que un día lo volveré a ver 👁️ 我知道總有一天，我會再次看清這個世界
+
+***
+
+🎺 (Trombón solo —  🎺 （長號獨奏 )
+
+Vaya Tromboranga! Ritmo y sabor! 去吧 Tromboranga! 節奏與風味!
+
+***
+
+🔥 ¿Qué pasa, mi gente? 🔥 怎麼了，我的朋友們？
+
+📢 Dicen que el mundo está... 📢 他們說這世界正處於...
+
+✨ ¡Hay que pensar en la humanidad con fuerza y con fe! ✨ 必須帶著力量與信念為人類的前途著想！
+
+🚀 Seguimos para adelante, ya tú sabes cómo es 🚀 我們持續向前進，你知道那是怎麼回事
+
+🤝 Hay que pensar en la humanidad 🤝 必須為人類整體著想
+
+💡 Aviva tu conciencia, hermanos 💡 喚醒你的良知，兄弟們
+
+🧍 Hay que pensar en el ser humano 🧍 必須為人類個體著想
+
+🤝 Hay que pensar en la humanidad 🤝 必須為人類整體著想
+
+😫 Estamos cansados de tanto sufrir 😫 我們已經厭倦了如此多的痛苦
+
+😊 Necesitamos un poquito sonreír 😊 我們需要一點微笑
+
+🤝 Hay que pensar en la humanidad 🤝 必須為人類整體著想
+
+✊ Y esa rodilla de encima, la tenemos que sacar ✊ 我們必須把那隻腳、那個膝蓋給移開
+
+🚫 ¡No tengas miedo! 🚫 不要恐懼！
+
+***
+
+
+
+
+
+
+
+
 
 
 
