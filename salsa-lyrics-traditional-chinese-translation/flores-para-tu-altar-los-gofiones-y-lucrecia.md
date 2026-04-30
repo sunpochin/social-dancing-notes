@@ -64,7 +64,7 @@ y la rosa nacarada de Obatalá,
 
 príncipe de pura sangre para Changó,
 
-純血的紅花則是獻給香果（雷電之神）🔥
+純血的紅花則是獻給搶購（雷電之神）🔥
 
 las Siete Potencias y Yemayá
 
@@ -122,7 +122,7 @@ y la rosa nacarada de Obatalá,
 
 príncipe de pura sangre para Changó,
 
-純血的紅花則是獻給香果（雷電之神）🔥
+純血的紅花則是獻給搶購（雷電之神）🔥
 
 las Siete Potencias y Yemayá
 
@@ -164,7 +164,7 @@ Celina le cantaba
 
 a Changó, a su papá.
 
-獻給香果，獻給她的父親 ⚡
+獻給搶購，獻給她的父親 ⚡
 
 Traigo mis flores para tu altar
 
@@ -236,7 +236,7 @@ To' lo bueno pa' ofrendar.
 
 1. 聖特里亞教（Santería）的供奉： 這首歌歌詞核心在於對 Orishas（奧里莎，即神靈） 的供奉。在古巴傳統中，每位神靈都有其代表的顏色與喜好的花朵。例如：
    * Ochún（奧昆）：掌管愛與河流，對應天主教的「慈悲聖母」，喜愛黃色向日葵。
-   * Changó（香果）：掌管雷電與權威，對應「聖芭芭拉」，喜愛紅色花朵（歌詞中的 Príncipe de pura sangre）。
+   * Changó（搶購）：掌管雷電與權威，對應「聖芭芭拉」，喜愛紅色花朵（歌詞中的 Príncipe de pura sangre）。
    * Obatalá（奧巴塔拉）：掌管智慧與純潔，喜愛白色玫瑰。
 2. 致敬經典人物： 歌詞中提到的 Celina 指的是古巴傳奇女歌手 Celina González。她是將這種祭神音樂融入古巴民俗音樂（Punto Guajiro）的先驅，其代表作《A Santa Bárbara》讓全世界聽見了古巴的信仰之聲。
 3. 表演者：Los Gofiones & Lucrecia： 2016 年的這個版本是由加納利群島的大型傳統樂團 Los Gofiones 與古巴女歌手 Lucrecia 合作演出。Lucrecia 以其標誌性的彩色頭髮和熱情奔放的嗓音聞名，這首曲子將加納利群島的民謠傳統與古巴的非洲律動完美融合。
