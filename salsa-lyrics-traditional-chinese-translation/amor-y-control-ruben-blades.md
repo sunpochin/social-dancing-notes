@@ -226,10 +226,6 @@ Export to Sheets
 
 ### 1️⃣ 《Pedro Navaja》＝「新聞版的人性黑箱」
 
-Pedro Navaja
-
-7
-
 👉 台灣對應：
 
 * 社會新聞裡的：
@@ -254,10 +250,6 @@ Pedro Navaja
 ***
 
 ### 2️⃣ 《Plástico》＝「IG / 網紅文化焦慮」
-
-Plástico
-
-8
 
 👉 台灣對應：
 
@@ -284,10 +276,6 @@ Plástico
 
 ### 3️⃣ 《Buscando América》＝「我是台灣人還是什麼？」
 
-Buscando América
-
-6
-
 👉 台灣對應（這個很直接）：
 
 * 台灣 vs 中國
@@ -308,10 +296,6 @@ Buscando América
 ***
 
 ### 4️⃣ 《Amor y Control》＝「長照地獄 vs 孝順壓力」
-
-Amor y Control
-
-7
 
 👉 台灣對應（你會很有感）：
 
@@ -336,10 +320,6 @@ Amor y Control
 ***
 
 ### 5️⃣ 《Siembra》＝「你要不要投資未來？」
-
-Siembra
-
-6
 
 👉 台灣對應：
 
@@ -383,7 +363,7 @@ Siembra
 
 > 他在講的問題，你全部都在經歷
 
-只是換了一個語言而已
+只是換了一個語言而已。
 
 
 
