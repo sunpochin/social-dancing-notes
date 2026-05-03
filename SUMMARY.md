@@ -28,7 +28,7 @@
 
 * [Tromboranga 顛倒的世界 El mundo al revés 歌詞翻譯](salsa-lyrics-traditional-chinese-translation/tromboranga-el-mundo-al-reves.md)
 * [Flores para Tu Altar Salsa 中文翻譯](salsa-lyrics-traditional-chinese-translation/flores-para-tu-altar-los-gofiones-y-lucrecia.md)
-* [愛與控制 Amor y control,  Rubén Blades 歌詞翻譯](salsa-lyrics-traditional-chinese-translation/ai-yu-kong-zhi-amorycontrol-rubn-blades-ge-ci-fan-yi.md)
+* [愛與控制 Amor y control,  Rubén Blades 歌詞翻譯](salsa-lyrics-traditional-chinese-translation/amor-y-control-ruben-blades.md)
 
 ## Lambada / Zouk / Kizomba 歌詞翻譯 <a href="#lambada-zouk-kizomba-traditional-chinese-translation" id="lambada-zouk-kizomba-traditional-chinese-translation"></a>
 
