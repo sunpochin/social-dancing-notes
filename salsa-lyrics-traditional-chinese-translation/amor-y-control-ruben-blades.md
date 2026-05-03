@@ -2,7 +2,8 @@
 
 ## MV, youtube, spotify
 
-Ruben 年輕時 IG: [https://www.instagram.com/100topcancionessalsa/reel/DXPMXPKkYUM/](https://www.instagram.com/100topcancionessalsa/reel/DXPMXPKkYUM/)
+Ruben 年輕時 IG: [https://www.instagram.com/100topcancionessalsa/reel/DXPMXPKkYUM/](https://www.instagram.com/100topcancionessalsa/reel/DXPMXPKkYUM/)\
+誒對，Salsa 人至少要知道一百首。就跟 Flamenco 歌手出道要唱一百場一樣。
 
 ### Anthony y Darianisse 新版
 
