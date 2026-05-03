@@ -28,7 +28,7 @@
 
 * [Tromboranga 顛倒的世界 El mundo al revés 歌詞翻譯](salsa-lyrics-traditional-chinese-translation/tromboranga-el-mundo-al-reves.md)
 * [Flores para Tu Altar Salsa 中文翻譯](salsa-lyrics-traditional-chinese-translation/flores-para-tu-altar-los-gofiones-y-lucrecia.md)
-* [愛與控制 Amor y control,  Rubén Blades 歌詞翻譯](salsa-lyrics-traditional-chinese-translation/amor-y-control-ruben-blades.md)
+* [愛與控制 Amor y control,  Rubén Blades 將文學敘事與政治思考「轉譯」進主流 Salsa](salsa-lyrics-traditional-chinese-translation/amor-y-control-ruben-blades.md)
 * [Ven Devórame Otra Vez (來吧，再次吞噬我) - Lalo Rodríguez：從硬派天才到情慾巔峰的悲劇傳奇](salsa-lyrics-traditional-chinese-translation/ven-devorame-otra-vez-lalo-rodriguez.md)
 
 ## Lambada / Zouk / Kizomba 歌詞翻譯 <a href="#lambada-zouk-kizomba-traditional-chinese-translation" id="lambada-zouk-kizomba-traditional-chinese-translation"></a>
