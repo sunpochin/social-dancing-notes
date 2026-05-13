@@ -3,7 +3,9 @@
 ## 跳舞影片
 
 Negra Tomasa - Calle Vapor - dance improvisation by FAVIO Y RENATA - Universidad de Concepción\
-[https://www.youtube.com/watch?v=59MZ7nzH8GA](https://www.youtube.com/watch?v=59MZ7nzH8GA)<br>
+[YouTube 原始連結](https://www.youtube.com/watch?v=59MZ7nzH8GA)
+
+
 
 ## 歌詞翻譯
 
