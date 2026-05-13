@@ -30,6 +30,7 @@
 * [Flores para Tu Altar Salsa 獻給信仰、文化傳承與神靈的頌歌](salsa-lyrics-traditional-chinese-translation/flores-para-tu-altar-los-gofiones-y-lucrecia.md)
 * [愛與控制 Amor y control,  Rubén Blades 將文學敘事與政治思考「轉譯」進主流 Salsa](salsa-lyrics-traditional-chinese-translation/amor-y-control-ruben-blades.md)
 * [Ven Devórame Otra Vez (來吧，再次吞噬我) - Lalo Rodríguez：從硬派天才到情慾巔峰的悲劇傳奇](salsa-lyrics-traditional-chinese-translation/ven-devorame-otra-vez-lalo-rodriguez.md)
+* [Bilongo 迷魂咒 aka La Negra Tomasa 黑美人朵瑪莎](salsa-lyrics-traditional-chinese-translation/bilongo-la-negra-tomasa.md)
 
 ## Lambada / Zouk / Kizomba 歌詞翻譯 <a href="#lambada-zouk-kizomba-traditional-chinese-translation" id="lambada-zouk-kizomba-traditional-chinese-translation"></a>
 
