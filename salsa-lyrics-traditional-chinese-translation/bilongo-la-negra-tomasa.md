@@ -9,9 +9,20 @@ Negra Tomasa - Calle Vapor - dance improvisation by FAVIO Y RENATA - Universidad
 
 ## 歌詞翻譯
 
-這是一首非常經典的莎莎（Salsa）名曲，描繪了一段被「迷魂咒」般的愛情。以下為您翻譯的歌詞：
+這是一首非常經典的莎莎（Salsa）名曲，描繪了一段被「迷魂咒」般的愛情。
+
+在進入歌詞前，先掌握這首歌的四個「街頭密碼」：
+
+1. Bilongo（迷魂咒）： 在非裔古巴語境裡指的是巫術或魔法藥。但這首情歌不是在指控女主角施黑魔法，而是極致的「暈船」誇飾法——Tomasa 的魅力、煮的咖啡和迷人的律動，讓他愛到像中邪一樣完全失守。
+2. Dinga y Mandinga（丁加與曼丁加）： 源自加勒比海地區的民間諺語「沒有丁加，也有曼丁加」。這兩個詞是非洲血統與混血身分的文化符號。這句話在民間流傳時，常帶著一點戲謔與戳破假象的意味，幽默地反駁那些試圖否認自己非裔根源的「白化」心態。
+3. Qui-qui-ribu（基基里布）： 千萬別把它當成嚴肅的宗教神諭！這是從西語公雞叫聲（quiquiriquí）變化而來的節奏口號（Jitanjáfora）。在 Salsa 的 Montuno 段落，這就是 30% 的語意加上 70% 的 Groove，純粹享受打擊樂與人聲交織的節奏爽感！
+4. 廚房裡的雙關語（Doble Sentido）： 拉丁音樂常把日常動作化為調情密碼。歌詞中讚嘆 Tomasa「過濾沖泡咖啡」的動作，其實是在隱喻她充滿節奏感的身體律動以及兩人間火熱的親密關係。
+
+
 
 ***
+
+#### Bilongo (Ismaël Rivera) 歌詞翻譯
 
 Bilongo, Mandinga, composte ✨
 
@@ -47,33 +58,33 @@ Ay, ay, ay 🎶
 
 Mira que esa negra linda, camara 👁️
 
-瞧那個美麗的黑女孩，朋友 👁️
+瞧那個美麗的黑女孩，老兄 👁️
 
 Mira me dio bilongo ✨
 
-看啊，她對我下了迷魂咒 ✨
+看啊，她把我給迷暈了（下了迷魂咒） ✨
 
 Esa negra santa, camara 😇
 
-那個神聖的黑女孩，朋友 😇
+那個神聖的黑女孩，老兄 😇
 
 Me dio bilongo 🔮
 
-對我施了咒語 🔮
+讓我徹底中了魔咒 🔮
 
 ***
 
 Lo más que me gusta la café, que ella me cuela ☕
 
-我最喜歡她親手為我沖泡的咖啡 ☕
+我最愛她那樣（充滿律動地）為我沖泡咖啡 ☕
 
 Lo más que me gusta de la comida que ella cocina 🥘
 
-我最喜歡她親手烹飪的飯菜 🥘
+我最愛她親手烹煮的美味飯菜 🥘
 
 Yo sé, que me gusta la café, me gusta la café ☕
 
-我知道，我喜歡那咖啡，我愛死那咖啡了 ☕
+我知道，我好喜歡那咖啡，我愛死那咖啡了 ☕
 
 Mira que ella me cuela 🌪️
 
@@ -81,7 +92,7 @@ Mira que ella me cuela 🌪️
 
 Lo más que me gusta es la comida que ella cocina 🍛
 
-我最喜歡的就是她煮的美味料理 🍛
+我最愛的就是她煮的料理 🍛
 
 Ay, ay, ay 🎵
 
@@ -89,25 +100,25 @@ Ay, ay, ay 🎵
 
 Mira que esa negra linda camara 🌟
 
-瞧那個美麗的黑女孩，朋友 🌟
+瞧那個美麗的黑女孩，老兄 🌟
 
 Que me dio bilongo 🪄
 
-她對我下了迷魂咒 🪄
+她把我給迷暈了 🪄
 
 Esa negra santa camara 🙏
 
-那個神聖的黑女孩，朋友 🙏
+那個神聖的黑女孩，老兄 🙏
 
 Me dio bilongo 🕸️
 
-對我施了咒語 🕸️
+讓我徹底中了魔咒 🕸️
 
 ***
 
 Qui-qui-ribu, Mandinga 🥁
 
-基-基-里布，曼丁加 🥁
+基-基-里布（喔呼！），曼丁加 🥁
 
 Qui-qui-ribu, qui-ribu Mandinga 👣
 
@@ -119,7 +130,7 @@ Quiribu, quribu, quiribu, quiribu, quiribu, Mandinga 🌀
 
 Esa negrita si que es linda 🌺
 
-那個黑女孩真的好漂亮 🌺
+那個黑女孩真的是太正了 🌺
 
 (Qui-qui-ribu, Mandinga 🥁
 
@@ -133,11 +144,11 @@ Qui-qui-ribu, qui-ribu Mandinga) 👣
 
 Lo más que me gusta a la café ☕
 
-我最喜歡的就是那杯咖啡 ☕
+我最愛的就是那杯咖啡 ☕
 
 Como lo cuela tomasa, tú ve 👵
 
-看 Tomasa 是怎麼沖泡的，你瞧瞧 👵
+看 Tomasa 是怎麼沖泡的，你自己瞧瞧 👵
 
 (Qui-qui-ribu, Mandinga 🥁
 
@@ -151,11 +162,11 @@ Qui-qui-ribu, qui-ribu Mandinga) 👣
 
 Pero si contiene dinga, tiene Mandinga 🧬
 
-如果她有丁加血統，就有曼丁加的根 🧬
+要是沒有丁加，也有曼丁加的根啊 🧬
 
 La negra Tomasa, te digo que es bien linda con timbal 🥁
 
-黑美人 Tomasa，我告訴你，伴隨定音鼓起舞的她真美 🥁
+黑美人 Tomasa，我跟你說，她跟著定音鼓起舞時美翻了 🥁
 
 (Qui-qui-ribu, Mandinga 🥁
 
@@ -187,11 +198,11 @@ Qui-qui-ribu, qui-ribu Mandinga) 👣
 
 "Ajita el fogón", me dice Tomasa 🔥
 
-「快攪動爐火」，Tomasa 對我說 🔥
+「快把爐火攪旺一點」，Tomasa 對我說 🔥
 
 Lo que quiero es que se prenda la braza, lleva, lleva 🪵
 
-我要的是讓那餘火燃燒起來，帶走吧，帶走吧 🪵
+我要的是讓那炭火徹底燒起來，帶走吧，帶走吧 🪵
 
 (Qui-qui-ribu, Mandinga 🥁
 
@@ -223,7 +234,7 @@ Qui-qui-ribu, qui-ribu Mandinga) 👣
 
 Ajá, con sabor a coco 🥥
 
-啊哈，帶著椰子的芬芳 🥥
+啊哈，帶著椰子的惹火風味 🥥
 
 Ven pa' que goce, ven pa' que goce 💃
 
@@ -235,7 +246,7 @@ Ven pa' que go-, pa' que go-, pa' que go- 🕺
 
 Pa' que go-, pa' que go-, pa' que go-, pa' que goce 🎉
 
-為了享受，享受，享受，為了那份快樂 🎉
+為了享受，享受，享受，享受那極致的快樂 🎉
 
 ***
 
@@ -263,11 +274,11 @@ Quir-ibu Mandinga) 🥁
 
 No te digo que si tiene dinga tiene Mandinga 🧬
 
-我不就說了嗎，有丁加就有曼丁加 🧬
+我不就跟你說了嗎，沒有丁加也有曼丁加 🧬
 
 La negra Tomasa que la negra está bien linda 🌹
 
-黑美人 Tomasa，這個女孩真的好漂亮 🌹
+黑美人 Tomasa，這個女孩真的是有夠正 🌹
 
 (Qui-ribu Mandinga) 🥁
 
@@ -275,7 +286,7 @@ La negra Tomasa que la negra está bien linda 🌹
 
 la negra Tomasa te digo que no es Linda 🤨
 
-黑美人 Tomasa，我告訴你她一點也不漂亮（反諷） 🤨
+黑美人 Tomasa，我跟你說她才「不漂亮」呢（反話玩笑） 🤨
 
 (Qui-ribu Mandinga) 🥁
 
@@ -297,13 +308,9 @@ Madin-, madin-, din-din, Mandinga 🌍
 
 La tuve como me dijo la negra Tomasa 🤝
 
-我就像黑美人 Tomasa 告訴我的那樣得到了她 🤝
+我就像黑美人 Tomasa 說的那樣，完完全全擁有了她 🤝
 
 (Qui-ribu Mandinga) 🥁
 
 基-里布，曼丁加 🥁
-
-
-
-
 
