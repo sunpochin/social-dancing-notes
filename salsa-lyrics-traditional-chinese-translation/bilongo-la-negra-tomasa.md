@@ -5,6 +5,10 @@
 Negra Tomasa - Calle Vapor - dance improvisation by FAVIO Y RENATA - Universidad de Concepción\
 [YouTube 原始連結](https://www.youtube.com/watch?v=59MZ7nzH8GA)
 
+## 各種 Salsa 音樂版本
+
+[https://open.spotify.com/playlist/7J6rnVSFrUb4rWeEomGj4e?si=8f87b7e09c1c4342](https://open.spotify.com/playlist/7J6rnVSFrUb4rWeEomGj4e?si=8f87b7e09c1c4342)
+
 
 
 ## 歌詞翻譯
@@ -17,6 +21,8 @@ Negra Tomasa - Calle Vapor - dance improvisation by FAVIO Y RENATA - Universidad
 2. Dinga y Mandinga（丁加與曼丁加）： 源自加勒比海地區的民間諺語「沒有丁加，也有曼丁加」。這兩個詞是非洲血統與混血身分的文化符號。這句話在民間流傳時，常帶著一點戲謔與戳破假象的意味，幽默地反駁那些試圖否認自己非裔根源的「白化」心態。
 3. Qui-qui-ribu（基基里布）： 千萬別把它當成嚴肅的宗教神諭！這是從西語公雞叫聲（quiquiriquí）變化而來的節奏口號（Jitanjáfora）。在 Salsa 的 Montuno 段落，這就是 30% 的語意加上 70% 的 Groove，純粹享受打擊樂與人聲交織的節奏爽感！
 4. 廚房裡的雙關語（Doble Sentido）： 拉丁音樂常把日常動作化為調情密碼。歌詞中讚嘆 Tomasa「過濾沖泡咖啡」的動作，其實是在隱喻她充滿節奏感的身體律動以及兩人間火熱的親密關係。
+
+
 
 
 
