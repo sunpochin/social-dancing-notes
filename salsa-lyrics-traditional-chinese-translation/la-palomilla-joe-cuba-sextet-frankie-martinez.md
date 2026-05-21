@@ -25,7 +25,8 @@ Frankie Martinez 與〈La Palomilla〉的殿堂級編舞
 
 也可能我當場就聽錯了但其實都沒關係～
 
-BTW, 今年 Super ball 表演很厲害的 Bad Bunny 也是 Puerto Rican.
+BTW, 今年 Super ball 表演很厲害的 Bad Bunny 也是 Puerto Rican. \
+Salsa 就是平民 / 貧民的藝術啊～(or flamenco or WHATEVER else)
 
 「Frankie 的回答比較大聲，我腦補如下：
 
