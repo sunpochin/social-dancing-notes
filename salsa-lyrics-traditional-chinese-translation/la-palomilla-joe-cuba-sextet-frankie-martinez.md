@@ -16,7 +16,7 @@ Frankie Martinez 與〈La Palomilla〉的殿堂級編舞
 
 [https://open.spotify.com/playlist/12tS9gR660efzjkb9I5Ho9?si=0992e5401db0401a](https://open.spotify.com/playlist/12tS9gR660efzjkb9I5Ho9?si=0992e5401db0401a)
 
-### 沒有銅管所以也許可以加在一堆銅管中間
+### 沒有銅管 (所以也許可以加在一堆銅管歌中間)
 
 GPT said: 在 mambo 與 Palladium 時代的紐約拉丁舞曲裡，Tito Puente、Machito、Tito Rodríguez 這類代表性樂團常以強力的 horn section——小號、長號、薩克斯風等——製造華麗、猛烈的大樂團聲響。Joe Cuba Sextet 則走了另一條路：他採用無銅管組的小編制，以 vibraphone、piano、bass、congas、timbales 與人聲構成招牌聲響，因此聽起來比傳統 mambo big band 更輕巧、更街頭、更接近後來 boogaloo / early salsa 的都會感。
 
