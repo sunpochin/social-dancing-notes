@@ -10,6 +10,8 @@ Frankie Martinez 與〈La Palomilla〉的殿堂級編舞
 
 [https://www.youtube.com/watch?v=urEMMMAEdFw](https://www.youtube.com/watch?v=urEMMMAEdFw)
 
+[https://fb.me/e/7uy5s2Hum](https://fb.me/e/7uy5s2Hum)<br>
+
 ## 不同版本錄音
 
 [https://open.spotify.com/playlist/12tS9gR660efzjkb9I5Ho9?si=0992e5401db0401a](https://open.spotify.com/playlist/12tS9gR660efzjkb9I5Ho9?si=0992e5401db0401a)
