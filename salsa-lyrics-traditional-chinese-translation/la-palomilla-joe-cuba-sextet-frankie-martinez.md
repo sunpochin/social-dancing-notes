@@ -23,7 +23,9 @@ Frankie Martinez 與〈La Palomilla〉的殿堂級編舞
 
 ### 2024 年 Taiwan Salsa Carnival Frankie 課後聊天大概說了這樣的話
 
+也可能我當場就聽錯了但其實都沒關係～
 
+BTW, 今年 Super ball 表演很厲害的 Bad Bunny 也是 Puerto Rican.
 
 「Frankie 的回答比較大聲，我腦補如下：
 
