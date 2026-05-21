@@ -4,15 +4,22 @@
 
 Frankie Martinez 與〈La Palomilla〉的殿堂級編舞
 
-對於有在跳社交舞或鑽研 Shines 的 Salsero 來說，提到這首歌絕對繞不開 Frankie Martinez。他用這首歌所編排的 Solo 表演，在 Salsa 圈幾乎是教科書級別的經典。
+對於有在跳社交舞或鑽研 Shines 的 Salsero 來說，提到這首歌絕對繞不開 Frankie Martinez。他用這首歌所編排的 Solo 表演，在 Salsa 圈幾乎是教科書等級的經典。
+
+### 2025 年的版本
 
 [https://www.instagram.com/reels/DMfnCM1uXMP/](https://www.instagram.com/reels/DMfnCM1uXMP/)
 
+### 2007 年的版本
+
+[https://www.youtube.com/watch?v=jLwdGnKs1Es](https://www.youtube.com/watch?v=jLwdGnKs1Es)
+
 [https://www.youtube.com/watch?v=urEMMMAEdFw](https://www.youtube.com/watch?v=urEMMMAEdFw)
 
+台北的舞會：\
 [https://fb.me/e/7uy5s2Hum](https://fb.me/e/7uy5s2Hum)<br>
 
-## 不同版本錄音
+## 錄音不同版本
 
 [https://open.spotify.com/playlist/12tS9gR660efzjkb9I5Ho9?si=0992e5401db0401a](https://open.spotify.com/playlist/12tS9gR660efzjkb9I5Ho9?si=0992e5401db0401a)
 
