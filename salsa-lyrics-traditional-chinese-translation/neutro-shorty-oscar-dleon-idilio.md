@@ -57,7 +57,7 @@ Y los muchachos de ahora con tu repertorio sí te aprenden
 他的著名作品是 Llorarás :妳將會哭(因為後悔),  [https://www.youtube.com/watch?v=Y9xD2rd2ukI](https://www.youtube.com/watch?v=Y9xD2rd2ukI)\
 今年已經八十二歲，除了還跟新銳樂團錄歌，明天還要在美國 Newark 演出，好驚訝啊。<br>
 
-Gemini 介紹： [https://gemini.google.com/share/f3f34035f88d](https://gemini.google.com/share/f3f34035f88d)&#x20;
+Gemini 介紹，「夢幻連動」... [https://gemini.google.com/share/f3f34035f88d](https://gemini.google.com/share/f3f34035f88d)&#x20;
 
 
 
