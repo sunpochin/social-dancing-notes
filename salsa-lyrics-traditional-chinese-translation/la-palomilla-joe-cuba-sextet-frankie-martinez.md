@@ -6,6 +6,10 @@ Frankie Martinez 與〈La Palomilla〉的殿堂級編舞
 
 對於有在跳社交舞或鑽研 Shines 的 Salsero 來說，提到這首歌絕對繞不開 Frankie Martinez。他用這首歌所編排的 Solo 表演，在 Salsa 圈幾乎是教科書等級的經典。
 
+### 今年 2026 Taiwan Salsa Carnival
+
+[https://www.instagram.com/p/DYgCW8YTxAg/](https://www.instagram.com/p/DYgCW8YTxAg/)
+
 ### 2025 年的版本
 
 [https://www.instagram.com/reels/DMfnCM1uXMP/](https://www.instagram.com/reels/DMfnCM1uXMP/)
