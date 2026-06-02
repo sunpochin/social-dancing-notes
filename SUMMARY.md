@@ -4,7 +4,7 @@
 
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
-* [Niña Pastori 翻唱 Plástico - Willie Colón & Rubén Blades](salsa-lyrics-traditional-chinese-translation/nia-pastori-fan-chang-plstico-willie-coln-rubn-blades.md)
+* [Niña Pastori 翻唱 Plástico - Willie Colón & Rubén Blades](salsa-lyrics-traditional-chinese-translation/nina-pastori-plstico-color-fania.md)
 * [Neutro Shorty 跟 Oscar D' León 的 Idilio](salsa-lyrics-traditional-chinese-translation/neutro-shorty-oscar-dleon-idilio.md)
 * [Frankie Martinez 編舞的 La Palomilla 歌詞翻譯 Joe Cuba Sextet](salsa-lyrics-traditional-chinese-translation/la-palomilla-joe-cuba-sextet-frankie-martinez.md)
 * [Bilongo 迷魂咒 aka La Negra Tomasa 黑美人朵瑪莎](salsa-lyrics-traditional-chinese-translation/bilongo-la-negra-tomasa.md)
