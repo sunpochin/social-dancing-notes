@@ -1,12 +1,14 @@
 # Niña Pastori 翻唱 Plástico - Willie Colón & Rubén Blades
 
-Flamenco 歌手天后 Niña Pastori 致敬 Salsa 前輩 Fania Record 出了一張 Color Fania 專輯。&#x20;
+Flamenco 歌手天后 Niña Pastori 致敬 Salsa 前輩 Fania Record 出了一張 Color Fania 專輯。
+
+在 1970 年代末，Disco 音樂席捲全球，對傳統拉美音樂造成很大的衝擊。但 Willie Colón 沒有排斥它，反而調皮地利用了這點。&#x20;
+
+〈Plástico〉是 Willie Colón 與 Rubén Blades 1978 年專輯《Siembra》的開場曲。它最經典的設計，是先以 disco 風格的 bassline、groove、合成器與弦樂營造一種商業流行舞曲的假象，隨後突然切入 Willie Colón 招牌的長號驅動 salsa groove。這個編排不是單純追流行，而是和歌詞主題互相呼應：Rubén Blades 批判的是表面光鮮、精神空洞、被消費主義與權力收編的「塑膠人」。因此〈Plástico〉同時是舞曲、諷刺劇，也是拉丁美洲身份意識的宣言。
 
 ## Video Audio
 
 youtube: [https://www.youtube.com/watch?v=WxX5I6i\_5-M](https://www.youtube.com/watch?v=WxX5I6i_5-M)
-
-
 
 ## 歌詞跟翻譯
 
@@ -18,15 +20,20 @@ youtube: [https://www.youtube.com/watch?v=WxX5I6i\_5-M](https://www.youtube.com/
 
 ### 🛍️ 塑料女孩的精緻虛榮
 
-Ella era una chica plástica 她是一個塑料女孩 👩‍🎤
+Ella era una chica plástica \
+她是一個塑料女孩 👩‍🎤
 
-De esas que veo por ahí + De esas que cuando se agitan 那種只要身體稍微一動 💃
+De esas que veo por ahí + De esas que cuando se agitan \
+那種只要身體稍微一動 💃
 
-Sudan Chanel Number Three 汗水就流著香奈兒香水的類型 🍾
+Sudan Chanel Number Three \
+汗水就流著香奈兒香水的類型 🍾
 
-Que sueñan casarse con un doctor 她們夢想著能嫁給一個醫生 🩺
+Que sueñan casarse con un doctor \
+她們夢想著能嫁給一個醫生 🩺
 
-Pues él puede mantenerlas mejor 因為這樣才能過上更好的優渥生活 💎
+Pues él puede mantenerlas mejor \
+因為這樣才能過上更好的優渥生活 💎
 
 No le hablan a nadie si no es igual 如果對方不是同個階級，她們連話都不想說 😒
 
