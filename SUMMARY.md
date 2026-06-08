@@ -2,6 +2,8 @@
 
 * [按網頁左上角選單看所有文章](README.md)
 * [🎵 藝人新發行 AI 樂評](new-releases/README.md)
+  * [Grupo Niche - Más Que Palabras](new-releases/grupo-niche-ms-que-palabras.md)
+  * [DJ Kakah - P&SM](new-releases/dj-kakah-psm.md)
   * [Alexander Abreu - Vengo](new-releases/alexander-abreu-vengo.md)
   * [Alexander Abreu - Borracho](new-releases/alexander-abreu-borracho.md)
   * [Akai Rojas - Volver A Sentir](new-releases/akai-rojas-volver-a-sentir.md)
