@@ -1,7 +1,19 @@
 # Table of contents
 
 * [按網頁左上角選單看所有文章](README.md)
-* [最新藝人新發行樂評](https://app.gitbook.com/s/gEDlaHR1AJIg7wALYOQw/gitbook/new-releases)
+* [🎵 藝人新發行 AI 樂評](new-releases/README.md)
+  * [AI巷仔內 - 西藏度亡經・舊屋篇](new-releases/ai巷仔內-西藏度亡經舊屋篇.md)
+  * [AI巷仔內 - 背影 | 給兄長的歌](new-releases/ai巷仔內-背影-給兄長的歌.md)
+  * [AI巷仔內 - 西藏度亡經・明光篇](new-releases/ai巷仔內-西藏度亡經明光篇.md)
+  * [Chantel - Amor de Verano](new-releases/chantel-amor-de-verano.md)
+  * [Mark Towns - Moonlit Caribbean Night](new-releases/mark-towns-moonlit-caribbean-night.md)
+  * [Mark Towns - Last Night](new-releases/mark-towns-last-night.md)
+  * [Sergio George - Besame Bonito (Salsa Version)](new-releases/sergio-george-besame-bonito-salsa-version.md)
+  * [Las Migas - CHASING THE SUN](new-releases/las-migas-chasing-the-sun.md)
+  * [MARIANA Y LA MAKYNARIA - Demasiado Fuerte](new-releases/mariana-y-la-makynaria-demasiado-fuerte.md)
+  * [Carlos D'Castro - Y Si Te Quedas, ¿Qué?](new-releases/carlos-dcastro-y-si-te-quedas-qu.md)
+  * [Cuba Libre Son Band - Pasión Mundial](new-releases/cuba-libre-son-band-pasin-mundial.md)
+  * [Luis Enrique - El Alma en Clave](new-releases/luis-enrique-el-alma-en-clave.md)
 
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
