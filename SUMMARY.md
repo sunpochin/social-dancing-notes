@@ -2,6 +2,9 @@
 
 * [按網頁左上角選單看所有文章](README.md)
 * [🎵 藝人新發行 AI 樂評](new-releases/README.md)
+  * [Alexander Abreu - Vengo](new-releases/alexander-abreu-vengo.md)
+  * [Alexander Abreu - Borracho](new-releases/alexander-abreu-borracho.md)
+  * [Akai Rojas - Volver A Sentir](new-releases/akai-rojas-volver-a-sentir.md)
   * [Dani J - Vicio](new-releases/dani-j-vicio.md)
   * [Dj Moreno salsa - Que Rico Baila Usted](new-releases/dj-moreno-salsa-que-rico-baila-usted.md)
   * [Dj Moreno salsa - LA SALSA VIVE (Salsa Pa'l Bailador)](new-releases/dj-moreno-salsa-la-salsa-vive-salsa-pal-bailador.md)
