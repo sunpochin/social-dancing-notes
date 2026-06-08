@@ -2,6 +2,7 @@
 
 * [按網頁左上角選單看所有文章](README.md)
 * [🎵 藝人新發行 AI 樂評](new-releases/README.md)
+  * [Tony Succar - ASUCCAR](new-releases/tony-succar-asuccar.md)
   * [AI巷仔內 - 西藏度亡經・舊屋篇](new-releases/ai巷仔內-西藏度亡經舊屋篇.md)
   * [AI巷仔內 - 背影 | 給兄長的歌](new-releases/ai巷仔內-背影-給兄長的歌.md)
   * [AI巷仔內 - 西藏度亡經・明光篇](new-releases/ai巷仔內-西藏度亡經明光篇.md)
