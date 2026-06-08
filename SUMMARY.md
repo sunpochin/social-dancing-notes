@@ -1,6 +1,7 @@
 # Table of contents
 
 * [按網頁左上角選單看所有文章](README.md)
+* [最新藝人新發行樂評](https://app.gitbook.com/s/gEDlaHR1AJIg7wALYOQw/gitbook/new-releases)
 
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
