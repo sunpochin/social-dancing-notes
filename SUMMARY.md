@@ -31,14 +31,6 @@
 
 ## Podcast 翻譯 <a href="#podcast-translations" id="podcast-translations"></a>
   * [在外頭的世界，莎莎舞是一種文化，而非產品」——費南多·索薩 —— BTS（第二部分） - 'Outside our bubble, salsa is a culture, not a product' - Fernando Sosa - BTS (Part 2)](podcast-translations/outside-our-bubble-salsa-is-a-culture-not-a-product-fernando-sosa-bts-part-2.md)
-  * [每週一句小劇場 【0602】 - 每週一句小劇場 【0602】](podcast-translations/zhouyi-xiao-jujulu-0602.md)
-  * [每週一句小品 【0602】 - 每週一句小劇場 【0602】](podcast-translations/zhouyi-xiaopingting-0602zhouyi-xiaojuchang-0602.md)
-  * [每週一句小品 【0602】 - 每週一句小劇場 【0602】](podcast-translations/zhouyi-xiaopin-0602-weekly-phrase-theater-0602.md)
-  * [每周一句小短劇 【0602】 - 每週一句小劇場 【0602】](podcast-translations/weekly-phrase-theater-0602.md)
-  * [每周一句小短剧 【0602】 - 每週一句小劇場 【0602】](podcast-translations/0602-0602.md)
-
-* [🎙️ auto test page](podcast-translations/auto-test-page.md)
-* [🎙️ Podcast 翻譯 - 影片 3NLo77d3QJo](podcast-translations/podcast-翻譯-影片-3nlo77d3qjo.md)
 
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
