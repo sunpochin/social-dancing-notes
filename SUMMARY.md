@@ -31,7 +31,8 @@
 
 ## Podcast 翻譯 <a href="#podcast-translations" id="podcast-translations"></a>
 
-* [🎙️ Podcast 翻譯 - 影片 3NLo77d3QJo](podcast-translations/podcast-翻譯-影片-3nlo77d3qjo.md)
+  * [🎙️ Podcast 翻譯 - 影片 3NLo77d3QJo](podcast-translations/podcast-翻譯-影片-3nlo77d3qjo.md)
+  * [每周一句小劇場 【0602】 - 每週一句小劇場 【0602】](podcast-translations/每周一句小劇場-0602-每週一句小劇場-0602.md)
 
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
