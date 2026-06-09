@@ -30,6 +30,7 @@
   * [Luis Enrique - El Alma en Clave](new-releases/luis-enrique-el-alma-en-clave.md)
 
 ## Podcast 翻譯 <a href="#podcast-translations" id="podcast-translations"></a>
+* [每周一句小劇場 【0602】 - 每週一句小劇場 【0602】](podcast-translations/weekly-phrase-theater-0602.md)
   * [在外頭的世界，莎莎舞是一種文化，而非產品」——費南多·索薩 —— BTS（第二部分） - 'Outside our bubble, salsa is a culture, not a product' - Fernando Sosa - BTS (Part 2)](podcast-translations/outside-our-bubble-salsa-is-a-culture-not-a-product-fernando-sosa-bts-part-2.md)
 
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
