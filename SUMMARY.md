@@ -65,3 +65,8 @@
 ## Lambada / Zouk / Kizomba 歌詞翻譯 <a href="#lambada-zouk-kizomba-traditional-chinese-translation" id="lambada-zouk-kizomba-traditional-chinese-translation"></a>
 
 * [Calema Vai 繁中歌詞翻譯](lambada-zouk-kizomba-traditional-chinese-translation/calema-vai-lyrics.md)
+
+
+## Podcast 翻譯 <a href="#podcast-translations" id="podcast-translations"></a>
+
+  * [Podcast 翻譯 - 影片 3NLo77d3QJo](podcast-translations/podcast-翻譯-影片-3nlo77d3qjo.md)
