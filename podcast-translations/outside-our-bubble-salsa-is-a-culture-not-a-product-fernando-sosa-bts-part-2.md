@@ -1,9 +1,10 @@
 <!-- gitbook-plugin-youtube-podcast-translator-auto-generated -->
-# 🎙️ 跳出我們的小圈子，莎莎舞是一種文化，而不是一種商品」——費南多·索薩 —— 前情提要（第二部分） - 'Outside our bubble, salsa is a culture, not a product' - Fernando Sosa - BTS (Part 2)
+# 🎙️ 「在外頭的世界，莎莎舞是一種文化，而非產品」——費南多·索薩 —— BTS（第二部分） - 'Outside our bubble, salsa is a culture, not a product' - Fernando Sosa - BTS (Part 2)
 
 > 影片連結: [YouTube 網頁連結 (新分頁開啟)](https://www.youtube.com/watch?v=bxzop1HTXJY)
 
 ### 影片嵌入觀看 (可邊放邊對照)
+
 {% embed url="https://www.youtube.com/watch?v=bxzop1HTXJY" %}
 
 ## 核心主旨與關鍵看點
