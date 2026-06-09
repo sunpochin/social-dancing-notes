@@ -30,6 +30,7 @@
   * [Luis Enrique - El Alma en Clave](new-releases/luis-enrique-el-alma-en-clave.md)
 
 ## Podcast 翻譯 <a href="#podcast-translations" id="podcast-translations"></a>
+  * [每週一句小品 【0602】 - 每週一句小劇場 【0602】](podcast-translations/zhouyi-xiaopingting-0602zhouyi-xiaojuchang-0602.md)
   * [每週一句小品 【0602】 - 每週一句小劇場 【0602】](podcast-translations/zhouyi-xiaopin-0602-weekly-phrase-theater-0602.md)
   * [每周一句小短劇 【0602】 - 每週一句小劇場 【0602】](podcast-translations/weekly-phrase-theater-0602.md)
   * [每周一句小短剧 【0602】 - 每週一句小劇場 【0602】](podcast-translations/0602-0602.md)
