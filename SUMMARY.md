@@ -30,6 +30,7 @@
   * [Luis Enrique - El Alma en Clave](new-releases/luis-enrique-el-alma-en-clave.md)
 
 ## Podcast 翻譯 <a href="#podcast-translations" id="podcast-translations"></a>
+  * [auto test page](podcast-translations/auto-test-page.md)
 
   * [🎙️ Podcast 翻譯 - 影片 3NLo77d3QJo](podcast-translations/podcast-翻譯-影片-3nlo77d3qjo.md)
   * [每周一句小劇場 【0602】 - 每週一句小劇場 【0602】](podcast-translations/每周一句小劇場-0602-每週一句小劇場-0602.md)
