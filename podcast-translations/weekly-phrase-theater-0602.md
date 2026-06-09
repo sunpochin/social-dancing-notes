@@ -1,10 +1,10 @@
 <!-- gitbook-plugin-youtube-podcast-translator-auto-generated -->
 # 🎙️ 每周一句小劇場 【0602】 - 每週一句小劇場 【0602】
 
-> 影片連結: <a href="https://youtube.com/watch?v=uSYCduNg1oc" target="_blank" rel="noopener noreferrer">YouTube 網頁連結 (新分頁開啟)</a>
+> 影片連結: [YouTube 網頁連結 (新分頁開啟)](https://www.youtube.com/watch?v=uSYCduNg1oc)
 
 ### 影片嵌入觀看 (可邊放邊對照)
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/uSYCduNg1oc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% embed url="https://www.youtube.com/watch?v=uSYCduNg1oc" %}
 
 ## 核心主旨與關鍵看點
 
@@ -60,4 +60,3 @@
  我所有的照片都不見了。
 
 ---
-

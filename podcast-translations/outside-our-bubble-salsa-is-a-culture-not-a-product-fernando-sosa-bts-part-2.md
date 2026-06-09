@@ -1,10 +1,10 @@
 <!-- gitbook-plugin-youtube-podcast-translator-auto-generated -->
 # 🎙️ 跳出我們的小圈子，莎莎舞是一種文化，而不是一種商品」——費南多·索薩 —— 前情提要（第二部分） - 'Outside our bubble, salsa is a culture, not a product' - Fernando Sosa - BTS (Part 2)
 
-> 影片連結: <a href="https://youtube.com/watch?v=bxzop1HTXJY" target="_blank" rel="noopener noreferrer">YouTube 網頁連結 (新分頁開啟)</a>
+> 影片連結: [YouTube 網頁連結 (新分頁開啟)](https://www.youtube.com/watch?v=bxzop1HTXJY)
 
 ### 影片嵌入觀看 (可邊放邊對照)
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/bxzop1HTXJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% embed url="https://www.youtube.com/watch?v=bxzop1HTXJY" %}
 
 ## 核心主旨與關鍵看點
 
@@ -275,4 +275,3 @@ inspirate to do to put inspiration in our market, in our bubble. Exactly. >> It'
 「這讓我們市場、讓我們的圈子充滿了動力和靈感。確實如此。真是太棒了，我感到非常高興。是的，真是太棒了。這就是所謂的一種圓滿時刻。所以，費南多，感謝你，費南多。謝謝。」
 
 ---
-
