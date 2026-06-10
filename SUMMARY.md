@@ -2,6 +2,7 @@
 
 * [按網頁左上角選單看所有文章](README.md)
 * [🎵 藝人新發行 AI 樂評](new-releases/README.md)
+  * [David Barrull - Olvidé quererte](new-releases/david-barrull-olvid-quererte.md)
   * [Anakena - Verano Nostalgia](new-releases/anakena-verano-nostalgia.md)
   * [Leslie Cartaya - Spanglish](new-releases/leslie-cartaya-spanglish.md)
   * [Grupo Niche - Más Que Palabras](new-releases/grupo-niche-ms-que-palabras.md)
