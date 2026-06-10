@@ -22,7 +22,7 @@ ZoukNerds: [What Brazilian Zouk Actually Costs You (S06 Ep06)](https://www.youtu
 ### 本集最值得關注的關鍵看點與精華摘要
 
 1. **心理和情緒探索**
-   - 嘗試者 Alison Sanji 認為，Brazilian Zouk 舞提供了一個研究、實驗 and 持續學習的平台。每次上課都會根據學生的建議調整教學方式，使得每堂課都有新的發現。
+   - 嘗試者 Alisson Sandi 認為，Brazilian Zouk 舞提供了一個研究、實驗 and 持續學習的平台。每次上課都會根據學生的建議調整教學方式，使得每堂課都有新的發現。
    
 2. **社交網絡擴大**
    - 嘗試者 Gui Prada 強調，Brazilian Zouk 舞為他帶來了來自世界各地的朋友，這些朋友是他以前從未認識到的。這種經歷讓他感到非常驚奇和感恩。
@@ -46,10 +46,10 @@ Every time I teach a class, the students pretty much tell me how to teach. Teach
 
 ### [1:19 - 2:46]
 **英文原文**:
->> [music] >> Hello, hello, and welcome back to another episode. My name is Alison Sanji, and we have Gui Prada here, everybody. >> Welcome back, my people. And today, we're going to continue with our experiment where we read one of the questions from our Facebook group, and we share our opinion here like one-on-one, just like a Q&A in person. So, Gui, what is the question of today? I think it's going to be a short one because they asked for one thing. One thing? One thing. >> But you know how we talk, right? So, >> Yeah, yeah, yeah. we'll see. We'll try. We'll try. We'll try. Veronique Dupont asks the benefits of dancing Brazilian Zouk. What would be the best benefits of dancing Brazilian Zouk for you? What does the dance bring and to your life? One thing. And what would be the principal disadvantage? There's always a downside everything life, and indeed there is. Huh, one thing only. Well, I will start with the advantage. For me, the advantage is mental and emotional exploration. I don't know. I'm just going to put it out there. I don't know if this actually is something that would fit into the
+>> [music] >> Hello, hello, and welcome back to another episode. My name is Alisson Sandi, and we have Gui Prada here, everybody. >> Welcome back, my people. And today, we're going to continue with our experiment where we read one of the questions from our Facebook group, and we share our opinion here like one-on-one, just like a Q&A in person. So, Gui, what is the question of today? I think it's going to be a short one because they asked for one thing. One thing? One thing. >> But you know how we talk, right? So, >> Yeah, yeah, yeah. we'll see. We'll try. We'll try. We'll try. Veronique Dupont asks the benefits of dancing Brazilian Zouk. What would be the best benefits of dancing Brazilian Zouk for you? What does the dance bring and to your life? One thing. And what would be the principal disadvantage? There's always a downside everything life, and indeed there is. Huh, one thing only. Well, I will start with the advantage. For me, the advantage is mental and emotional exploration. I don't know. I'm just going to put it out there. I don't know if this actually is something that would fit into the
 
 **中文對照**:
->> [音樂] >> 大家好，歡迎收聽我們另一集節目。我是阿倫．桑吉（Alison Sanji），今天我們有貴悠．普拉達（Gui Prada）和大家见面。 >> 大家好，欢迎回来。今天我们继续进行一個实验，在Facebook群組中抽取一個问题来讨论，就像面對面的问答一样。那 Gui，今天的問題是什麼？我想這次應該很簡單吧，只有一個問題。一個問題。
+>> [音樂] >> 大家好，歡迎收聽我們另一集節目。我是 Alisson Sandi，今天我們有貴悠．普拉達（Gui Prada）和大家見面。 >> 大家好，歡迎回來。今天我們繼續進行一個實驗，在Facebook群組中抽取一個問題來討論，就像面對面的問答一樣。那 Gui，今天的問題是什麼？我想這次應該很簡單吧，只有一個問題。一個問題。
 
 但是你知道我們聊得多 chatter 一點嗎？所以
 
