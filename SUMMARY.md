@@ -2,6 +2,7 @@
 
 * [按網頁左上角選單看所有文章](README.md)
 * [🎵 藝人新發行 AI 樂評](new-releases/README.md)
+  * [Mandinga - Arquitectura (Salsa Version)](new-releases/mandinga-arquitectura-salsa-version.md)
   * [La-33 - Nada Que Me Pagan](new-releases/la-33-nada-que-me-pagan.md)
   * [Niña Pastori - Color Fania](new-releases/nia-pastori-color-fania.md)
   * [David Barrull - Olvidé quererte](new-releases/david-barrull-olvid-quererte.md)
