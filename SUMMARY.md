@@ -34,6 +34,7 @@
   * [Luis Enrique - El Alma en Clave](new-releases/luis-enrique-el-alma-en-clave.md)
 
 ## Podcast 翻譯 <a href="#podcast-translations" id="podcast-translations"></a>
+
 * [巴西佐克實質cost你什麼（第六季 第六集） - What Brazilian Zouk Actually Costs You (S06 Ep06)](podcast-translations/brazilian-zouk-actually-cost-you-s06-ep06.md)
 * [十八歲那年，她帶著夢想只身前往紐約－雅莉莎·阿柏里達 - At 18, she moved to New York with no plan, just a dream - Yaritza Arboleda](podcast-translations/at-18-she-moved-to-new-york-with-no-plan-just-a-dream-yaritza-arboleda.md)
 * [每周一句小劇場 【0602】 - 每週一句小劇場 【0602】](podcast-translations/weekly-phrase-theater-0602.md)
@@ -41,6 +42,7 @@
 
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
+* [Como Lo Haces Tú 就像你愛我的方式](salsa-lyrics-traditional-chinese-translation/como-lo-hacest-jiu-xiang-ni-ai-wo-de-fang-shi.md)
 * [Niña Pastori 翻唱 Plástico - Willie Colón & Rubén Blades](salsa-lyrics-traditional-chinese-translation/nina-pastori-plstico-color-fania.md)
 * [Neutro Shorty 跟 Oscar D' León 的 Idilio](salsa-lyrics-traditional-chinese-translation/neutro-shorty-oscar-dleon-idilio.md)
 * [Frankie Martinez 編舞的 La Palomilla 歌詞翻譯 Joe Cuba Sextet](salsa-lyrics-traditional-chinese-translation/la-palomilla-joe-cuba-sextet-frankie-martinez.md)
