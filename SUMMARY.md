@@ -40,6 +40,10 @@
 * [每周一句小劇場 【0602】 - 每週一句小劇場 【0602】](podcast-translations/weekly-phrase-theater-0602.md)
 * [在外頭的世界，莎莎舞是一種文化，而非產品」——費南多·索薩 —— BTS（第二部分） - 'Outside our bubble, salsa is a culture, not a product' - Fernando Sosa - BTS (Part 2)](podcast-translations/outside-our-bubble-salsa-is-a-culture-not-a-product-fernando-sosa-bts-part-2.md)
 
+***
+
+* [🎵 藝人新發行 AI 樂評](https://app.gitbook.com/o/TyNUepwtwaeZNJMN4orB/s/gEDlaHR1AJIg7wALYOQw/)
+
 ## Salsa 歌詞繁中翻譯 <a href="#salsa-lyrics-traditional-chinese-translation" id="salsa-lyrics-traditional-chinese-translation"></a>
 
 * [Como Lo Haces Tú 就像你愛我的方式](salsa-lyrics-traditional-chinese-translation/como-lo-hacest-jiu-xiang-ni-ai-wo-de-fang-shi.md)
