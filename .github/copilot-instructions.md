@@ -6,4 +6,4 @@
 
 # Copilot Adapter
 
-先讀 [AGENTS.md](../AGENTS.md)，按需閱讀其中的文件索引；沿用本專案的 npm／Vitest 與資料安全邊界。
+先讀 [AGENTS.md](../AGENTS.md)，按需閱讀其中的文件索引；驗證指令依 [本機工具](../docs/agents/local-tools.md) 使用 Node 原生檢查與測試。
