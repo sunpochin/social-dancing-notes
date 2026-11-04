@@ -1,6 +1,6 @@
 # Frankie Martinez - Behind the shines 訪問：為何現在每個人跳舞看起來都一樣？
 
-
+📅 發布日期：2026-11-04
 
 ## 'Why does everyone look the same now?' - Frankie Martinez - BTS
 
