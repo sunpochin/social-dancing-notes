@@ -67,6 +67,7 @@
 * [翻譯 Live in Berlin - Salsa 圈中的社群媒體現象](behind-the-shine/social-media-in-the-salsa-scene.md)
 * [翻譯 Live in Berlin - Salsa 舞蹈中的 Lead 與 Follow 互動關係](behind-the-shine/live-in-berlin-lead-follow-dynamics-translation.md)
 * [DJ Dmitri 採訪翻譯](behind-the-shine/dj-dmitri-interview-translation.md)
+* [Frankie Martinez - Behind the shines 訪問：為何現在每個人跳舞看起來都一樣？](behind-the-shine/frankie-martinez-behind-the-shines.md)
 
 ## Salsa Language
 
