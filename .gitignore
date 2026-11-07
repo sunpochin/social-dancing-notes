@@ -1,0 +1,7 @@
+# 為什麼排除本機工具狀態：筆記內容與 AI 索引不應混在 Git。
+.serena/
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
