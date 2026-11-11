@@ -2,7 +2,40 @@
 
 📅 發布日期：2026-11-04
 
-## 'Why does everyone look the same now?' - Frankie Martinez - BTS
+## 上次 Taiwan Salsa Carnival 我模糊的印象，有缺請補完
+
+那堂課我睡著了，最後一天的課實在太累。 之前的筆記寫在某 blog 消失了，希望有自動 github 備份的 gitbook 會保護我。
+
+### 要把舞跳好的秘訣就在：基本步
+
+我也不怕這個秘訣分享給大家，「反正你們都做不到」。因此我還可以繼續靠著教跳舞維生。
+
+### Salsa 是窮人的藝術
+
+(跟 Flamenco 是吉普賽 / 窮人的藝術，類似。)
+
+我是（美國籍）波多黎各移民，我們都是窮人，Salsa 是街頭上長出來的藝術。在我家鄉，如果台上的藝術家沒有為窮苦的大眾發聲，台下的人會把台上的表演者趕下來，自己上去為自己表演。
+
+### 音樂家是越老，越殘缺，越強
+
+音樂家是很好的，非常好。他們想的是「我手上能打的牌只有這麼多，我要怎麼用有限的資源，做出最好的效果？受限制的我，要怎麼幫助最窮苦的人？」
+
+像是有個音樂家，他的幾根手指都斷掉了，但他還是很厲害。（pachinko 知道的是斷指吉他手 Django Reinhardt）\
+我們舞者常常會想著：「哇，我年輕力壯，我好厲害，這個也會，那個也會。請不用想著你要做 Salsa, 做 Bachata, 你要做的是：『藝術』。」
+
+### 我覺得 Musicality 這個字有點被用到我覺得不好意思了，Music 才是重要的
+
+(下面 Behind the Shines, Frankie 又再講了一次。所以他真的不怕人家學走他的秘密，「反正你們都做不到。」)
+
+音樂本身才是重要的。如果你們真的想要做我們現在所謂「音樂性」的事情，我會建議去找基本節奏那些樂器（pachinko 猜想是 conga cowball 等等），從基本步出發。Salsa 音樂裡面有些樂器我們根本無法預期，這在編舞行得通但是 social 很難用。
+
+
+
+## Behind the Shines
+
+### 'Why does everyone look the same now?' - Frankie Martinez - BTS<br>
+
+
 
 本集訪談來自 YouTube 頻道 Behind The Shines，訪談對象為傳奇騷莎舞者 Frankie Martinez：[影片連結](https://www.youtube.com/watch?v=B8WxQR7Mwls)。以下為逐字稿與逐句對照中文翻譯，按每 10 分鐘進行分段：
 
